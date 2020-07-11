@@ -6,5 +6,5 @@ $msg =$_POST['name'];
 $msg = wordwrap($msg,70);
 
 // send email
-mail("someone@example.com","My subject",$msg);
+mail("shanmugapriyabs06@gmail.com","My subject",$msg);
 ?>
